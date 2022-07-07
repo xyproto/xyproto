@@ -2,7 +2,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xyproto&theme=flat&column=5&margin-w=15&margin-h=15)](https://github.com/xyproto)
 
-## Various projects that are picked up by Linux-distros and UNIX-like operating systems
+## Projects of mine that are picked up by Linux-distros and UNIX-like operating systems
 
 ### [setconf](https://github.com/xyproto/setconf)
 
