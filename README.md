@@ -27,3 +27,4 @@
 ### [o](https://github.com/xyproto/o) - an editor
 
 [![Packaging status for o](https://repology.org/badge/vertical-allrepos/o.svg)](https://github.com/xyproto/o)
+[![Packaging status for o-editor](https://repology.org/badge/vertical-allrepos/o-editor.svg)](https://github.com/xyproto/o)
