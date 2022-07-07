@@ -8,13 +8,9 @@
 
 [![Packaging status for setconf](https://repology.org/badge/vertical-allrepos/setconf.svg)](https://github.com/xyproto/setconf)
 
-### [simpleredis](https://github.com/xyproto/simpleredis)
+### [simpleredis](https://github.com/xyproto/simpleredis) and [pinterface](https://github.com/xyproto/pinterface)
 
 [![Packaging status for simpleredis](https://repology.org/badge/vertical-allrepos/go:github-xyproto-simpleredis.svg)](https://github.com/xyproto/simpleredis)
-
-### [pinterface](https://github.com/xyproto/pinterface)
-
-[![Packaging status for pinterface](https://repology.org/badge/vertical-allrepos/go:github-xyproto-pinterface.svg)](https://github.com/xyproto/pinterface)
 
 ### [gendesk](https://github.com/xyproto/gendesk)
 
