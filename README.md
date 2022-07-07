@@ -4,26 +4,26 @@
 
 ## Projects of mine that are picked up by Linux-distros and UNIX-like operating systems
 
-### [setconf](https://github.com/xyproto/setconf)
+### [setconf](https://github.com/xyproto/setconf) - a small system utility
 
 [![Packaging status for setconf](https://repology.org/badge/vertical-allrepos/setconf.svg)](https://github.com/xyproto/setconf)
 
-### [simpleredis](https://github.com/xyproto/simpleredis) and [pinterface](https://github.com/xyproto/pinterface)
+### [simpleredis](https://github.com/xyproto/simpleredis) and [pinterface](https://github.com/xyproto/pinterface) - packages for Go
 
 [![Packaging status for simpleredis](https://repology.org/badge/vertical-allrepos/go:github-xyproto-simpleredis.svg)](https://github.com/xyproto/simpleredis)
 
-### [gendesk](https://github.com/xyproto/gendesk)
+### [gendesk](https://github.com/xyproto/gendesk) - utility for generating .desktop files
 
 [![Packaging status for gendesk](https://repology.org/badge/vertical-allrepos/gendesk.svg)](https://github.com/xyproto/gendesk)
 
-### [wallutils](https://github.com/xyproto/wallutils)
+### [wallutils](https://github.com/xyproto/wallutils) - list monitors and DPI, set wallpapers and timed wallpapers
 
 [![Packaging status for wallutils](https://repology.org/badge/vertical-allrepos/wallutils.svg)](https://github.com/xyproto/wallutils)
 
-### [algernon](https://github.com/xyproto/algernon)
+### [algernon](https://github.com/xyproto/algernon) - a web server
 
 [![Packaging status for algernon](https://repology.org/badge/vertical-allrepos/algernon.svg)](https://github.com/xyproto/algernon)
 
-### [o](https://github.com/xyproto/o)
+### [o](https://github.com/xyproto/o) - an editor
 
 [![Packaging status for o](https://repology.org/badge/vertical-allrepos/o.svg)](https://github.com/xyproto/o)
