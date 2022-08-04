@@ -1,8 +1,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xyproto&theme=nord_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xyproto&theme=nord_dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xyproto&theme=flat&column=5&margin-w=15&margin-h=15)](https://github.com/xyproto)
+[![trophy](https://github-profile-trophy.vercel.app/?username=xyproto&theme=gruvbox&column=7&margin-w=15&margin-h=15&title=AllSuperRank,MultiLanguage,Stars,Commits,Follower,Issues,PullRequest)](https://github.com/xyproto)
 
-## Projects of mine that are picked up by Linux-distros and UNIX-like operating systems
+## Projects that are picked up by Linux-distros and UNIX-like operating systems
 
 ### [setconf](https://github.com/xyproto/setconf) - a small system utility
 
