@@ -24,7 +24,7 @@
 
 [![Packaging status for algernon](https://repology.org/badge/vertical-allrepos/algernon.svg)](https://github.com/xyproto/algernon)
 
-### [o](https://github.com/xyproto/o) - a text editor and IDE for VT100
+### [o](https://github.com/xyproto/o) - a configuration-free text editor and IDE that is limited by VT100
 
 [![Packaging status for o](https://repology.org/badge/vertical-allrepos/o.svg)](https://github.com/xyproto/o)
 [![Packaging status for o-editor](https://repology.org/badge/vertical-allrepos/o-editor.svg)](https://github.com/xyproto/o)
