@@ -27,7 +27,8 @@
 ### [orbiton](https://github.com/xyproto/orbiton) - a configuration-free text editor and IDE that is limited by VT100
 
 [![Packaging status for orbiton](https://repology.org/badge/vertical-allrepos/orbiton.svg)](https://github.com/xyproto/orbiton)
-[![Packaging status for o](https://repology.org/badge/vertical-allrepos/o.svg)](https://github.com/xyproto/o)
 [![Packaging status for o-editor](https://repology.org/badge/vertical-allrepos/o-editor.svg)](https://github.com/xyproto/o)
 
- <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/xyproto/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/xyproto/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/xyproto/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+### [png2svg](https://github.com/xyproto/png2svg) - a utility for converting small PNG images to SVG Tiny 1.2
+
+[![Packaging status for png2svg](https://repology.org/badge/vertical-allrepos/png2svg.svg)](https://github.com/xyproto/png2svg)
