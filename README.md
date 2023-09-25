@@ -2,6 +2,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xyproto&theme=gruvbox&column=7&margin-w=15&margin-h=15&title=AllSuperRank,MultiLanguage,Stars,Commits,Follower,Issues,PullRequest)](https://github.com/xyproto)
 
+## Trending projects
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=xyproto/orbiton,xyproto/wallutils,xyproto/png2svg,xyproto/algernon,xyproto/sdl2-examples,xyproto/permissions2,xyproto/setconf&type=Date)](https://star-history.com/#xyproto/orbiton&xyproto/wallutils&xyproto/png2svg&xyproto/algernon&xyproto/sdl2-examples&xyproto/permissions2&xyproto/setconf&Date)
+
 ## Projects that are picked up by Linux-distros and UNIX-like operating systems
 
 ### [setconf](https://github.com/xyproto/setconf) - a small system utility
