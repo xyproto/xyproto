@@ -20,7 +20,7 @@
 
 [![Packaging status for gendesk](https://repology.org/badge/vertical-allrepos/gendesk.svg)](https://github.com/xyproto/gendesk)
 
-### [wallutils](https://github.com/xyproto/wallutils) - list monitors and DPI, set wallpapers and timed wallpapers
+### [wallutils](https://github.com/xyproto/wallutils) - list monitors, VRAM and DPI, set wallpapers and timed wallpapers
 
 [![Packaging status for wallutils](https://repology.org/badge/vertical-allrepos/wallutils.svg)](https://github.com/xyproto/wallutils)
 
