@@ -6,7 +6,7 @@
 
 [![Star History Chart](https://api.star-history.com/svg?repos=xyproto/orbiton,xyproto/wallutils,xyproto/png2svg,xyproto/algernon,xyproto/sdl2-examples,xyproto/permissions2,xyproto/setconf&type=Date)](https://star-history.com/#xyproto/orbiton&xyproto/wallutils&xyproto/png2svg&xyproto/algernon&xyproto/sdl2-examples&xyproto/permissions2&xyproto/setconf&Date)
 
-## Projects that are picked up by Linux-distros and other operating systems
+## Projects that have been picked up by Linux distros or other operating systems
 
 ### [setconf](https://github.com/xyproto/setconf) - a small system utility
 
