@@ -28,7 +28,7 @@
 
 [![Packaging status for algernon](https://repology.org/badge/vertical-allrepos/algernon.svg?columns=4)](https://github.com/xyproto/algernon)
 
-### [orbiton](https://github.com/xyproto/orbiton) - a configuration-free text editor and IDE that is limited by VT100
+### [orbiton](https://github.com/xyproto/orbiton) - a configuration-free text editor and minimal IDE, limited by VT100
 
 [![Packaging status for orbiton](https://repology.org/badge/vertical-allrepos/orbiton.svg?columns=4)](https://github.com/xyproto/orbiton)
 
