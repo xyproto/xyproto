@@ -14,24 +14,24 @@
 
 ### [simpleredis](https://github.com/xyproto/simpleredis) and [pinterface](https://github.com/xyproto/pinterface) - packages for Go
 
-[![Packaging status for simpleredis](https://repology.org/badge/vertical-allrepos/go:github-xyproto-simpleredis.svg)](https://github.com/xyproto/simpleredis)
+[![Packaging status for simpleredis](https://repology.org/badge/vertical-allrepos/go:github-xyproto-simpleredis.svg?columns=4)](https://github.com/xyproto/simpleredis)
 
 ### [gendesk](https://github.com/xyproto/gendesk) - utility for generating .desktop files
 
-[![Packaging status for gendesk](https://repology.org/badge/vertical-allrepos/gendesk.svg)](https://github.com/xyproto/gendesk)
+[![Packaging status for gendesk](https://repology.org/badge/vertical-allrepos/gendesk.svg?columns=4)](https://github.com/xyproto/gendesk)
 
 ### [wallutils](https://github.com/xyproto/wallutils) - list monitors, VRAM and DPI, set wallpapers and timed wallpapers
 
-[![Packaging status for wallutils](https://repology.org/badge/vertical-allrepos/wallutils.svg)](https://github.com/xyproto/wallutils)
+[![Packaging status for wallutils](https://repology.org/badge/vertical-allrepos/wallutils.svg?columns=4)](https://github.com/xyproto/wallutils)
 
 ### [algernon](https://github.com/xyproto/algernon) - a web server
 
-[![Packaging status for algernon](https://repology.org/badge/vertical-allrepos/algernon.svg)](https://github.com/xyproto/algernon)
+[![Packaging status for algernon](https://repology.org/badge/vertical-allrepos/algernon.svg?columns=4)](https://github.com/xyproto/algernon)
 
 ### [orbiton](https://github.com/xyproto/orbiton) - a configuration-free text editor and IDE that is limited by VT100
 
-[![Packaging status for orbiton](https://repology.org/badge/vertical-allrepos/orbiton.svg)](https://github.com/xyproto/orbiton)
+[![Packaging status for orbiton](https://repology.org/badge/vertical-allrepos/orbiton.svg?columns=4)](https://github.com/xyproto/orbiton)
 
 ### [png2svg](https://github.com/xyproto/png2svg) - a utility for converting small PNG images to SVG Tiny 1.2
 
-[![Packaging status for png2svg](https://repology.org/badge/vertical-allrepos/png2svg.svg)](https://github.com/xyproto/png2svg)
+[![Packaging status for png2svg](https://repology.org/badge/vertical-allrepos/png2svg.svg?columns=4)](https://github.com/xyproto/png2svg)
